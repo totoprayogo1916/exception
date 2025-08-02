@@ -4,7 +4,7 @@
     "type": "esoftdream-library",
     "autoload": {
         "psr-4": {
-            "Esoftdream\\": "src/"
+            "CodeIgniter\\HTTP\\Exceptions\\": "src/Exceptions/"
         }
     },
     "authors": [
