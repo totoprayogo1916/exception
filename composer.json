@@ -1,0 +1,19 @@
+{
+    "name": "esoftdream/exception",
+    "description": "Handle disallowchars exception",
+    "type": "esoftdream-library",
+    "autoload": {
+        "psr-4": {
+            "Esoftdream\\Exceptions\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Toto",
+            "email": "totoprayogo1916@gmail.com"
+        }
+    ],
+    "require": {
+        "codeigniter4/framework": "^4.6"
+    }
+}
